@@ -6,5 +6,6 @@ Artefatos produzidos para o desenvolvimento do software
 * Deivisson Felipe (Sistemas de Informação)
 * Guilherme Jannotti (Sistemas de Informação)
 * Pedro Silva (Engenharia da Computação)
+
 ### Professor:
 * Igor Muzetti

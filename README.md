@@ -7,6 +7,7 @@ Um vídeo explicando o projeto é encontrado no link: https://www.youtube.com/wa
 * Deivisson Felipe (Sistemas de Informação)
 * Guilherme Jannotti (Sistemas de Informação)
 * Pedro Silva (Engenharia da Computação)
+
 ### Professor:
 * Igor Muzetti
 
