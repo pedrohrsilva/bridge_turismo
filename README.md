@@ -1,12 +1,12 @@
 # Bridge Turismo
 Bridge Turismo é o resultado do trabalho prático da Disciplina de Engenharia de Software II realizado na Universidade Federal de Ouro Preto no segundo semestre de 2015.
 
-# Desenvolvedores:
-Deivisson Felipe
-Guilherme Jannotti
-Pedro Silva
+### Desenvolvedores:
+* Deivisson Felipe (Sistemas de Informação)
+* Guilherme Jannotti (Sistemas de Informação)
+* Pedro Silva (Engenharia da Computação)
 
-# Professor:
+### Professor:
 Igor Muzetti
 
 O objetivo do trabalho é criar um aplicação utilizando o Padrão de Projeto Bridge
